@@ -1,2 +1,2 @@
 # Titanic Survival Prediction
-Solution for Kaggle projects that I have tried
+Solution for Kaggle open competition on Titanic survival prediction with accuracy of 78.299%
